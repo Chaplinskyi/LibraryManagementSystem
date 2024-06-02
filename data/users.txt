@@ -1,0 +1,3 @@
+Bob,bob@mail.com,111,Admin/
+Alex,alex@mail.com,222,User/
+Greg,greg@mail.com,333,User/
